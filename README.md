@@ -22,6 +22,7 @@ We have completed the design of the 2D plane and 3D model for the navigation sys
 
 ## Team Members
  ### Hitesh Mankar
+ ### Siddhart Parihar
 ### Kunal Panche
  ### Piyush Chafle
- ### Siddhart Parihar
+ 
