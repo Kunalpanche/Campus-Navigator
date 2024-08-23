@@ -13,7 +13,7 @@
 
 ## Current Progress
 We have completed the design of the 2D plane and 3D model for the navigation system. These models serve as the foundation for building the navigation and wayfinding features within this floor
-#### 2D Map
+#### 2D Plan
 ![2D Plan](images/2d-plan.png)
 
 #### 3D Model
