@@ -15,8 +15,13 @@
 ![2D Plan](images/2d-plan.png)
 
 #### 3D Model
-![3D Model](images/3d-model1.png)
-![3D Model](images/3d-model.png)
+![3D Model of CSE department](images/3d-model1.png)
+![3D Model of CSE department](images/3d-model.png)
+
+## Campus Navigation from main gate 
+![Main gate to Civil Department](images/ycceNav.png)
+![Main gate to 1st year Department](images/ycceNav2.png)
+
 
 ## Team Members
  ### Hitesh Mankar
