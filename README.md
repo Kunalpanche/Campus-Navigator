@@ -1,6 +1,3 @@
-# Team-HackHorizon 
-
-## Team Number T-02
 <!-- ## Indoor Navigation System -->
 ## Problem Statement 
  In large venues such as colleges, universities, hospitals, airports ,railway stations etc , navigating through various departments and public amenities can be challenging for visitors. The lack of navigation systems often leads to confusion and delays, impacting the overall user experience.
@@ -21,11 +18,3 @@
 ## Campus Navigation from main gate 
 ![Main gate to Civil Department](images/ycceNav.png)
 ![Main gate to 1st year Department](images/ycceNav2.png)
-
-
-## Team Members
- ### Hitesh Mankar
- ### Siddhart Parihar
-### Kunal Panche
- ### Piyush Chafle
- 
